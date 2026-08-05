@@ -1,0 +1,6 @@
+{
+  "name": "PDFPro Tools",
+  "description": "Free online PDF tools platform with 30 powerful tools, search filtering, category tabs, dark theme, and interactive document workspace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
